@@ -1,4 +1,5 @@
 # Node JS GIF Meme Generator
+![Example image](docs/example.gif)
 
 ## Usage
 ```bash
