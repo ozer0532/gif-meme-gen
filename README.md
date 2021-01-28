@@ -1,4 +1,4 @@
-# Node JS Meme Generator
+# Node JS GIF Meme Generator
 
 ## Usage
 ```bash
